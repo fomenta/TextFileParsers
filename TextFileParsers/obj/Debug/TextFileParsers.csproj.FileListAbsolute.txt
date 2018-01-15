@@ -1,6 +1,0 @@
-C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers\bin\Debug\TextFileParsers.dll.config
-C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers\bin\Debug\TextFileParsers.dll
-C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers\bin\Debug\TextFileParsers.pdb
-C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers\obj\Debug\TextFileParsers.csproj.CoreCompileInputs.cache
-C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers\obj\Debug\TextFileParsers.dll
-C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers\obj\Debug\TextFileParsers.pdb
