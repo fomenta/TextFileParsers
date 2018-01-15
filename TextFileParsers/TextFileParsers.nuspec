@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>TextFileParsers</id>
+        <version>0.9.2</version>
+        <description>TextFileParsers: Easy structured text files parsing for .Net</description>
+        <authors></authors>
+    </metadata>
+	<files>
+		<file src="bin\Release\TextFileParsers.dll" target="lib\net45" />
+		<file src="bin\Release\TextFileParsers.pdb" target="lib\net45" />
+	</files>
+</package>
