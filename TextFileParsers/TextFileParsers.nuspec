@@ -8,7 +8,7 @@
         <authors>mtricoli</authors>
     </metadata>
 	<files>
-		<file src="bin\Release\TextFileParsers.dll" target="lib\net45" />
-		<file src="bin\Release\TextFileParsers.pdb" target="lib\net45" />
+		<file src="bin\TextFileParsers.dll" target="lib\net45" />
+		<file src="bin\TextFileParsers.pdb" target="lib\net45" />
 	</files>
 </package>
