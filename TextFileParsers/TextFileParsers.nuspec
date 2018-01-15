@@ -8,8 +8,8 @@
         <authors>mtricoli</authors>
 		<projectUrl>https://github.com/fomenta/TextFileParsers</projectUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<tags>TextFileParsers Text File Parsers</tags>
     </metadata>
-	<tags>TextFileParsers Text File Parsers</tags>
 	<files>
 		<file src="bin\TextFileParsers.dll" target="lib\net45" />
 		<file src="bin\TextFileParsers.pdb" target="lib\net45" />
