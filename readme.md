@@ -1,7 +1,7 @@
 TextFileParsers: Easy structured text files parsing for .Net
 =================================
 
-Clone of [TextFileParsers (CodePlex)](https://textfileparsers.codeplex.com)
+[![Build status](https://ci.appveyor.com/api/projects/status/a508csmcqojivk8r?svg=true)](https://ci.appveyor.com/project/fomenta/textfileparsers)
 
 TextFileParsers is a library written C# that makes it easier for programmers to parse structured text files, both delimited and fixed width text files.
 
