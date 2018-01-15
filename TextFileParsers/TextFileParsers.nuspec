@@ -5,7 +5,7 @@
         <id>TextFileParsers</id>
         <version>0.9.2</version>
         <description>TextFileParsers: Easy structured text files parsing for .Net</description>
-        <authors></authors>
+        <authors>mtricoli</authors>
     </metadata>
 	<files>
 		<file src="bin\Release\TextFileParsers.dll" target="lib\net45" />
