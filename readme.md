@@ -27,7 +27,7 @@ Read from a delimited text file
 
 To parse a comma-delimited file that has some fields enclosed in quotes:
 
-```
+```C#
 using (DelimitedFieldParser parser = new DelimitedFieldParser("contacts.csv"))
 {
 	parser.SetDelimiters(',');
@@ -62,7 +62,7 @@ Read from a fixed-width text file
 
 To parse a fixed-width text file:
 
-```
+```C#
 using (FixedWidthFieldParser parser = new FixedWidthFieldParser("error.log"))
 {
 	parser.SetFieldWidths(3, 20, -1);
