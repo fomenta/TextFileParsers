@@ -1,0 +1,12 @@
+C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers.Test\obj\Debug\TextFileParsers.Test.csprojResolveAssemblyReference.cache
+C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers.Test\obj\Debug\TextFileParsers.Test.csproj.CoreCompileInputs.cache
+C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers.Test\bin\Debug\TextFileParsers.Test.dll.config
+C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers.Test\bin\Debug\TextFileParsers.Test.dll
+C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers.Test\bin\Debug\TextFileParsers.Test.pdb
+C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers.Test\bin\Debug\nunit.framework.dll
+C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers.Test\bin\Debug\TextFileParsers.dll
+C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers.Test\bin\Debug\TextFileParsers.pdb
+C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers.Test\bin\Debug\TextFileParsers.dll.config
+C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers.Test\bin\Debug\nunit.framework.xml
+C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers.Test\obj\Debug\TextFileParsers.Test.dll
+C:\Users\pescobar\Documents\GitHub\TextFileParsers\src\TextFileParsers.Test\obj\Debug\TextFileParsers.Test.pdb
